@@ -1,9 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"create:potion","components":{"minecraft:potion_contents":{"potion":"estrogen:estrogen_potion"},"create:potion_fluid_bottle_type":"regular"}},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:potion","components":{"minecraft:potion_contents":{"potion":"createnuclear:potion_of_radiation_1"},"create:potion_fluid_bottle_type":"regular"}},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:lingering_potion","components":"{\"minecraft:potion_contents\":{potion:\"createbb:long_cyanide_potion\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createbigcannons:guncotton"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createbigcannons:packed_guncotton"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createbigcannons:he_shell","components":"{\"createbigcannons:fuze\":[{item:{count:1,id:\"createbigcannons:wired_fuze\"},slot:0}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
