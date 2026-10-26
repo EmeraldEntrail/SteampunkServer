@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":["create:potion_mixing_vanilla_63",{"ingredients":[{"item":"createnuclear:enriched_yellowcake"},{"type":"neoforge:components","fluids":"create:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:awkward"},"create:potion_fluid_bottle_type":"regular"},"amount":1000}],"results":[{"id":"create:potion","amount":1000,"components":{"minecraft:potion_contents":{"potion":"createnuclear:potion_of_radiation_1"},"create:potion_fluid_bottle_type":"regular"}}],"heat_requirement":"heated","type":"create:mixing"}],"recipeType":"create:automatic_brewing","bookmarkType":"RECIPE"},
+  {"recipe":["create:potions",{"ingredients":[{"item":"minecraft:potion"}],"results":[{"id":"minecraft:glass_bottle"},{"id":"create:potion","amount":250,"components":{"minecraft:potion_contents":{"potion":"estrogen:estrogen_potion"},"create:potion_fluid_bottle_type":"regular"}}],"type":"create:emptying"}],"recipeType":"create:draining","bookmarkType":"RECIPE"}
+]

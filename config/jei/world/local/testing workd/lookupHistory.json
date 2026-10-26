@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"supplementaries:safe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crimsite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

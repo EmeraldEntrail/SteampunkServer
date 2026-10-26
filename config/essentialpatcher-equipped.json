@@ -1,0 +1,12 @@
+{
+  "equipped": {
+    "SHOULDERS": "SHOULDER_SHRIMP",
+    "EARS": "DEER_ANTLERS",
+    "ICON": "BASE_ICON"
+  },
+  "settings": {
+    "BASE_ICON": [],
+    "SHOULDER_SHRIMP": [],
+    "DEER_ANTLERS": []
+  }
+}
