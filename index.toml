@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "instructions.txt"
+hash = "2a4511db76a3f15196f50fddc048d2b3b47f6ac8ecda7d27d91aecb722c0edc7"
+
+[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
 metafile = true
@@ -549,6 +553,11 @@ file = "mods/create-stuff-additions1.21.1_v2.1.4b.jar"
 hash = "4aee9a1af2754609ab31bfebf13dc0d7d648e61e440232dbf9bb3459941e23d5"
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
+metafile = true
+
+[[files]]
 file = "mods/create_aero_radar-0.1.1-1.21.1.jar"
 hash = "77da138d202ed9fa95f57ee45c411f7af4b6addfa55ff5175bd379b68cd079a6"
 
@@ -619,6 +628,11 @@ hash = "9642029e7bdb4b32502a2b092dc0b03fa52a397f01050ea83f893476618791c5"
 [[files]]
 file = "mods/dye_the_world-2.4.0.jar"
 hash = "cdbbc1c699a1d379496900656fab42f8cb34fb4dbc4341004dd41ad9e4412994"
+
+[[files]]
+file = "mods/dyson-cube-project.pw.toml"
+hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
+metafile = true
 
 [[files]]
 file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
@@ -709,6 +723,11 @@ file = "mods/sable-neoforge-1.21.1-2.0.5.jar"
 hash = "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
 
 [[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "bdb86f7611da8c045e82f4aca7cf4bde48a0271b2859c938551ecebb6f94d08d"
+metafile = true
+
+[[files]]
 file = "mods/sablefarandwide-1.0.0.jar"
 hash = "c9282b233f7c5ba330a3e86413873d20854c16270e7d3e5536d8040f06943245"
 
@@ -739,6 +758,11 @@ hash = "748ec03afcbcf394539db1cdde6dd9d214667a18d10bedaca2df1bc3aaf9a299"
 [[files]]
 file = "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
 hash = "58f6ab47c59218bdb10bb9eee1905b6cd27f3bc98d4af13982a6002a99b1d3e7"
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
 
 [[files]]
 file = "mods/tracks-neoforge-1.21.1-1.0.1.jar"

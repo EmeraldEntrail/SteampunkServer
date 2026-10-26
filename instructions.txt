@@ -1,0 +1,27 @@
+===================================================================
+                PACKWIZ AUTO-UPDATE CHEAT SHEET
+===================================================================
+
+STEP 1: ADD YOUR NEW MOD(S)
+---------------------------
+Open PowerShell inside this folder and run ONE of these commands:
+
+  For Modrinth Mods:
+  .\packwiz modrinth install [PASTE_MOD_URL_HERE]
+
+  For CurseForge Mods:
+  .\packwiz curseforge install [PASTE_MOD_URL_HERE]
+
+
+STEP 2: BROADCAST THE UPDATE TO YOUR FRIENDS
+--------------------------------------------
+Copy and paste this exact 3-line command block into PowerShell 
+and hit Enter to automatically push the update live:
+
+.\packwiz refresh ; git add . ; git commit -m "Pack Update" ; git push --force
+
+
+===================================================================
+DONE! Your friends' launchers will automatically download the 
+new mods the very next time they click "Launch" inside Prism.
+===================================================================
