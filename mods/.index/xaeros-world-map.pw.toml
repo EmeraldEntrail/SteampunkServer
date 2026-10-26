@@ -1,5 +1,5 @@
 filename = 'xaeroworldmap-neoforge-1.21.1-1.45.0.jar'
-name = "Xaero's World Map"
+name = 'Xaero's World Map'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

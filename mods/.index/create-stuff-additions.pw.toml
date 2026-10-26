@@ -1,5 +1,5 @@
 filename = 'create-stuff-additions1.21.1_v2.1.4b.jar'
-name = "Create Stuff 'N Additions"
+name = 'Create Stuff 'N Additions'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]

@@ -1,5 +1,5 @@
 filename = 'xaerominimap-neoforge-1.21.1-26.4.2.jar'
-name = "Xaero's Minimap"
+name = 'Xaero's Minimap'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

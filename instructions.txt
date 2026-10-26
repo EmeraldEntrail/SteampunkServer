@@ -15,13 +15,14 @@ Open PowerShell inside this folder and run ONE of these commands:
 
 STEP 2: BROADCAST THE UPDATE TO YOUR FRIENDS
 --------------------------------------------
-Copy and paste this exact 3-line command block into PowerShell 
-and hit Enter to automatically push the update live:
+Copy and paste this entire 1-line block into your PowerShell window 
+and hit Enter. It will automatically convert the quote layout, 
+refresh your tracking hashes, and force-push the clean update live:
 
-.\packwiz refresh ; git add . ; git commit -m "Pack Update" ; git push --force
+Get-ChildItem mods\*.pw.toml, mods\.index\*.pw.toml -ErrorAction Ignore | ForEach-Object { (Get-Content $_.FullName) | ForEach-Object { $_ -replace '"', "'" } | Set-Content $_.FullName } ; .\packwiz refresh ; git add . ; git commit -m "Pack Update" ; git push --force
 
 
 ===================================================================
-DONE! Your friends' launchers will automatically download the 
-new mods the very next time they click "Launch" inside Prism.
+DONE! Wait for the GitHub Actions circle to turn green, then your 
+friends' launchers will automatically download the updates!
 ===================================================================
