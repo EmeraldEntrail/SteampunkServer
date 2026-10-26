@@ -1182,7 +1182,7 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "instance.cfg"
-hash = "70f01873163d21689bdca37c104a47ce0e620284626bc143338b7d45a34885a0"
+hash = "778c01fe521a561550f2ccd1cde80fae0b448f2ab43ef07ea4495ef32e36c5c1"
 
 [[files]]
 file = "mmc-pack.json"
