@@ -5,10 +5,6 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "instructions.txt"
-hash = "2a4511db76a3f15196f50fddc048d2b3b47f6ac8ecda7d27d91aecb722c0edc7"
-
-[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
 metafile = true
@@ -677,6 +673,11 @@ hash = "d76b62fd38acc119de5d64c0f5b13e2965fcd0f85079ca4620b74a9a342c017d"
 [[files]]
 file = "mods/kotlinforforge-5.12.0-all.jar"
 hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "b74fca656a55272873813f193ddda1954c3d435e66c335c1ec78ba7709610018"
+metafile = true
 
 [[files]]
 file = "mods/lithostitched-1.8.0+beta6-neoforge-21.1.jar"
