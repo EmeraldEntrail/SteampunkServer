@@ -1404,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/essential-patcher.pw.toml"
-hash = "0aa8ad9f91e75d8abbff9dbdee54db70371c76783d74e59a052666e7e7ef23f9"
+hash = "be2f7c8bcbe5127d7bd132e5ac96bccf36437eb5768a94704a576574432960f7"
 metafile = true
 
 [[files]]
@@ -1589,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/worldedit.pw.toml"
-hash = "c0c9356d23050e42621023550a0cfa6a5892e079b512c128f939648fc267cf81"
+hash = "325be45ebfb56852bcedf1579fdafee87a33e8d367db181e78d93b60736a135c"
 metafile = true
 
 [[files]]
