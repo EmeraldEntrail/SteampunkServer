@@ -1,6 +1,5 @@
 name = "Cynosure"
 filename = "cynosure-1.0.2-neoforge-1.21.1.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

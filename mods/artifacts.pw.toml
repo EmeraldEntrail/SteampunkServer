@@ -1,6 +1,5 @@
 name = "Artifacts"
 filename = "artifacts-neoforge-13.2.3.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

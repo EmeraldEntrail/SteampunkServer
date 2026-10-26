@@ -1,6 +1,5 @@
 name = "Waystones: Sable (Create Aeronautics Addon)"
 filename = "waystonessable-1.0.7.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

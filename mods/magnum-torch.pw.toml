@@ -1,6 +1,5 @@
 name = "Magnum Torch"
 filename = "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,5 @@
 name = "Create Stuff 'N Additions"
 filename = "create-stuff-additions1.21.1_v2.1.4b.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

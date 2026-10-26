@@ -1,6 +1,5 @@
 name = "Dye Depot"
 filename = "dye_depot-2.1.1.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

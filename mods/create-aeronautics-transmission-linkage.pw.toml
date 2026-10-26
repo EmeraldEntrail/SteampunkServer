@@ -1,6 +1,5 @@
 name = "Create Aeronautics: Transmission & Linkage"
 filename = "create_aeronautics_transmission_linkage-0.2.8.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

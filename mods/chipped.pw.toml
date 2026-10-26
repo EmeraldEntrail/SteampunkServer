@@ -1,6 +1,5 @@
 name = "Chipped"
 filename = "chipped-neoforge-1.21.1-4.0.2.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

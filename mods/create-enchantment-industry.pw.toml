@@ -1,6 +1,5 @@
 name = "Create: Enchantment Industry"
 filename = "create-enchantment-industry-2.5.3b.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

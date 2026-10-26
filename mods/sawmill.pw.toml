@@ -1,6 +1,5 @@
 name = "Sawmill"
 filename = "sawmill-1.21-1.8.1-neoforge.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

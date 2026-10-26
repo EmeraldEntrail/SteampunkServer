@@ -1,6 +1,5 @@
 name = "FTB Ultimine (NeoForge)"
 filename = "ftb-ultimine-neoforge-2101.1.15.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,5 @@
 name = "Create Propulsion: Simulated"
 filename = "createpropulsion-1.1.5.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

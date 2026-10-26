@@ -1,6 +1,5 @@
 name = "Just Enough Items (JEI)"
 filename = "jei-1.21.1-neoforge-19.53.0.426.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"

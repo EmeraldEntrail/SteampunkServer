@@ -1,6 +1,5 @@
 name = "ShatterLib | OctoLib"
 filename = "OctoLib-NEOFORGE-0.6.2+1.21.jar"
-side = "both"
 
 [download]
 hash-format = "sha1"
