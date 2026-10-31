@@ -5,6 +5,10 @@ file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
+file = "how2push.txt"
+hash = "0bb637ed02e7535e817f8b11bc9059e649405f0ab8cac6dc9ec866413311373e"
+
+[[files]]
 file = "icon.png"
 hash = "27277f02dd47a81b87acb61716153f4665f4397a03f9750d7b713869498c2edb"
 
@@ -60,13 +64,13 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
-file = "mods/chunky-offline.pw.toml"
-hash = "18cead0149f4d8d9533e03372d5ed4d1fdca927790f48878876b01c3d8d5fb9e"
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -100,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
@@ -179,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -208,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-depot.pw.toml"
-hash = "720bbec1af0ae5479e12d37114209a87175fee7deb91a09aa44208198ae9ac15"
+hash = "868ac326db1626226c11babcfe8a50d1aef1d3c198bcbf89b133a4f81f938a7c"
 metafile = true
 
 [[files]]
@@ -342,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]

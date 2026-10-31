@@ -1,0 +1,34 @@
+==================================================
+STEAMPUNK SERVER - PACKWIZ DEVELOPER CHEAT SHEET
+==================================================
+
+1. HOW TO ADD / UPDATE MODS:
+   -------------------------
+   * Add Modrinth mod:     .\packwiz modrinth install [mod-name]
+   * Add CurseForge mod:   .\packwiz curseforge install [mod-name]
+   * Update all mods:      .\packwiz update --all
+
+2. THE "PUSH TO FRIENDS" ROUTINE (Run after ANY changes):
+   ------------------------------------------------------
+   .\packwiz refresh
+   git add .
+   git commit -m "Describe your changes here"
+   git push origin main
+
+3. PRE-LAUNCH COMMAND FOR FRIENDS (Paste in Prism/MultiMC):
+   ---------------------------------------------------------
+   "java" -jar "https://github.com" -g -s client "https://githubusercontent.com"
+
+4. FRIEND INSTALL INSTRUCTIONS:
+   ----------------------------
+   * Create a completely blank Prism/MultiMC instance.
+   * Match Minecraft version: 1.21.1
+   * Match Modloader: NeoForge 21.1.250
+   * Go to Instance Settings -> Custom Commands -> Enable Pre-launch command.
+   * Paste the long Java command from section #3 above and hit Close.
+   * Click Launch to automatically download the pack!
+==================================================
+
+
+
+thank you gemini
