@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "8a6d139cf37b1cb623540125015877ae6ac3eb3962bd2a6fbac1c57194b369c7"
 metafile = true
@@ -792,3 +788,7 @@ hash = "d60899112e84616ba52a993c1722fd891872acc4779bfac34d9b170001451c6f"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
 hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

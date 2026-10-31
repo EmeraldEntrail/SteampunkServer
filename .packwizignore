@@ -1,5 +1,3 @@
-instance.cfg
-mmc-pack.json
-packwiz-installer-bootstrap.jar
-config/
-instructions.txt
+.git
+.packwizignore
+packwiz.exe
