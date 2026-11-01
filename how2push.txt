@@ -17,7 +17,9 @@ STEAMPUNK SERVER - PACKWIZ DEVELOPER CHEAT SHEET
 
 3. PRE-LAUNCH COMMAND FOR FRIENDS (Paste in Prism/MultiMC):
    ---------------------------------------------------------
-   "java" -jar "https://github.com" -g -s client "https://githubusercontent.com"
+   "java" -jar "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar" -g -s client "https://raw.githubusercontent.com/EmeraldEntrail/SteampunkServer/refs/heads/main/pack.toml"
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client "https://raw.githubusercontent.com/EmeraldEntrail/SteampunkServer/refs/heads/main/pack.toml"
+
 
 4. FRIEND INSTALL INSTRUCTIONS:
    ----------------------------
