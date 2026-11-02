@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Prism Launcher version 11.1.1 (offi.txt"
-hash = "3c6da23e15374690b45dacba1633c4f1b0f717b162458ff5ca03a9fae410aa2c"
+hash = "95ec7e1f458b39910a61cd4ad5f8c44ffb8ade89ebdf611b2a02d86cd9fde007"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
@@ -635,8 +635,13 @@ hash = "035f86b5c4c27664e1bb17d03b14cf19c5a0f540d9f0bfd2645075d6339b7e8b"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "5de4795ed5c92e6f4013057bbf3374ea348ed0c8d6e7468a203573aa623c1f70"
+hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
 
 [[files]]
