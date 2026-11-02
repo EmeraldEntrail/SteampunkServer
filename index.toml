@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Prism Launcher version 11.1.1 (offi.txt"
-hash = "95ec7e1f458b39910a61cd4ad5f8c44ffb8ade89ebdf611b2a02d86cd9fde007"
+hash = "1b3c9412e5d0c05ae4732beab6231bdf31d5c43f590ee5490673214a7444156e"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
