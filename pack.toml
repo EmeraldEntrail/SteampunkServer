@@ -1,12 +1,12 @@
 name = "SteampunkServer"
 author = "EmeraldEntrail"
-version = "2.0.0test14"
+version = "2.0.0helpme"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b855977872c555f60440042a3b21fee464d23c719c915760abff8340f19124f"
+hash = "3dbaf2517665ad2e7d270469004c07dce11c2552598896ab3a512ce928c922f1"
 
 [versions]
 minecraft = "1.21.1"
